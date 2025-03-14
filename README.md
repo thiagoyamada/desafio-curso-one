@@ -14,6 +14,9 @@
 <p>O usuário digita um nome no campo de entrada e clica no botão "Adicionar", o nome é validado (não pode ser vazio ou repetido) e adicionado à lista exibida na tela. 
   O usuário clica no botão "Sortear Amigo", o sistema escolhe aleatoriamente um nome da lista exibe o mesmo na tela, após o sorteio, a lista de participantes é automaticamente apagada.</p>
 
+<h2>Acesse o projeto</h2>
+<p>Link do site: https://thiagoyamada.github.io/desafio-curso-one/</p>
+
 <h2>Autor</h2>
 <p>Thiago Yamada</p>
 <p>Linkedin: https://www.linkedin.com/in/thiago-yudi/</p>
